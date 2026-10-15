@@ -15,7 +15,30 @@
 
 ## Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring-Boot-333333?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white) ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-30363D?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-30363D?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-30363D?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-30363D?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+## Currently Learning
+
+**Backend Development**
+- Java & Object-Oriented Programming (OOP)
+- RESTful APIs with Spring Boot
+
+**Databases**
+- MySQL and SQL queries
+- Database modeling and relationships
+
+**Software Development**
+- Clean Code and best practices
+- Problem-solving through hands-on projects
 
 ## Featured Projects
 
