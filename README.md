@@ -23,12 +23,6 @@
 - **Weather Dashboard with WEGnology**
 - **Spring Boot and responsive web development projects**
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilewng&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilewng&layout=compact&theme=radical&hide_border=true)
-
 ## Connect with Me
 
 - LinkedIn: [Camile Wengrzynek](https://www.linkedin.com/in/camile-wengrzynek/)
