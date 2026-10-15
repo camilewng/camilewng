@@ -56,8 +56,13 @@
 
 ## Connect with Me
 
-- LinkedIn: [Camile Wengrzynek](https://www.linkedin.com/in/camile-wengrzynek/)
-- Email: [camileweng@gmail.com](mailto:camileweng@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/camile-wengrzynek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:camileweng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:c71585&height=120&section=footer" alt="Footer Banner Rosa" />
