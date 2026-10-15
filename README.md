@@ -13,6 +13,8 @@
 - Systems Development student.
 - Currently learning: REST API development, Java programming, and database management.
 
+
+
 ## Technologies & Tools
 
 <p align="left">
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" />
 </p>
+
+
 
 ## Currently Learning
 
@@ -40,16 +44,21 @@
 - Clean Code and best practices
 - Problem-solving through hands-on projects
 
+
+
 ## Featured Projects
 
 - **WEG Asset Control**
 - **Weather Dashboard with WEGnology**
 - **Spring Boot and responsive web development projects**
 
+
+
 ## Connect with Me
 
 - LinkedIn: [Camile Wengrzynek](https://www.linkedin.com/in/camile-wengrzynek/)
 - Email: [camileweng@gmail.com](mailto:camileweng@gmail.com)
 
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:c71585&height=120&section=footer" alt="Footer Banner Rosa" />
+</p>
